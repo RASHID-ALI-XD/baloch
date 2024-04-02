@@ -7,8 +7,8 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from ZF import ssbbuy
-    ssbbuy()
+    from RASHID import exit
+    exit()
 elif bit == '32bit':
-    from ZF import ssbbuy
-    ssbbuy()
+    from RASHID import exit
+    exit()
