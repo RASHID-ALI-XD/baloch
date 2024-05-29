@@ -9,7 +9,7 @@ COMMANDS:-
 rm -rf baloch
 git clone https://github.com/RASHID-ALI-XD/baloch
 cd baloch
-python King.py
+python king.py
 
 ---------------------
 WHATSAPP GROUP 🔗 
