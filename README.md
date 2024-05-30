@@ -1,4 +1,7 @@
-rm -rf baloch 
+rm -rf baloch 😈 
+
 git clone https://github.com/RASHID-ALI-XD/baloch
-cd baloch 
+
+cd baloch 😈 
+
 python 'Baloch R.py'
